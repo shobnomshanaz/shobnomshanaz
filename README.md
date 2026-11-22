@@ -1,276 +1,284 @@
 
-<!-- ===================================================== -->
-<!--                 AL SHARIF | PREMIUM README             -->
-<!-- ===================================================== -->
+<!-- =========================================================
+     SHOBNOM SHANAZ | LAVENDER DREAM DEVELOPER PROFILE
+     ========================================================= -->
 
-<!-- HERO BANNER -->
-
+<!-- HERO -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:030712,45:172554,100:581C87&text=AL%20SHARIF&fontSize=72&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20IN%20PROGRESS&descSize=16&descAlignY=67&descColor=67E8F9" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6D5BA6,50:9B8AC8,100:E9D979&text=SHOBNOM%20SHANAZ&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=Curious%20Mind%20%7C%20Creative%20Coder%20%7C%20CSE%20Student&descSize=16&descAlignY=60&descColor=FFF9DB&animation=fadeIn&section=header" />
 </p>
 
-<!-- INTRODUCTION -->
+<!-- ANIMATED INTRO -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=23&pause=1500&color=9B8AC8&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Shobnom+Shanaz+%F0%9F%92%9C;A+Computer+Science+%26+Engineering+Student;Learning+to+Turn+Ideas+Into+Code;Growing+One+Project+At+A+Time+%E2%9C%A8" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/SharifZX">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=1200&color=67E8F9&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+AL+Sharif+%F0%9F%91%8B;Computer+Science+Student;Software+Development+Enthusiast;Building+Ideas+Into+Reality;Always+Learning+Something+New" />
+  <a href="https://github.com/shobnomshanaz">
+    <img src="https://img.shields.io/badge/GitHub-My%20Profile-8B78B8?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:shobnomshanaz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Connect-E4D77B?style=for-the-badge&logo=gmail&logoColor=5B4B80" />
   </a>
 </p>
 
+---
+
+<!-- ABOUT ME -->
+
+<h2 align="center">୨୧ About Me</h2>
+
+<table>
+<tr>
+<td width="60%" valign="center">
+
+Hi! I'm **Shobnom Shanaz**, a Computer Science and Engineering student with a curious mind and a growing passion for technology.
+
+I'm exploring the world of programming, software development, databases, and modern technologies. I love learning how things work behind the scenes and challenging myself to turn what I learn into something meaningful.
+
+I believe every expert starts as a beginner, and every small step counts. I'm here to learn, experiment, make mistakes, improve, and build my own place in the tech world.
+
+**My journey is still unfolding — and that's the exciting part.** 🌷
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/13HgwGsxsxhGY8/giphy.gif" width="280" alt="Coding animation" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- CURRENT FOCUS -->
+
+<h2 align="center">✦ Currently Exploring ✦</h2>
+
 <p align="center">
-  <a href="https://github.com/SharifZX">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=67E8F9" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=SharifZX&style=for-the-badge&color=312E81&label=VISITORS" />
+  <img src="https://img.shields.io/badge/Programming-Improving-8B78B8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Problem_Solving-Learning-E4D77B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web_Development-Exploring-9B8AC8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Database-Understanding-7766A8?style=flat-square" />
 </p>
+
+- 🌱 Strengthening my programming fundamentals
+- 💡 Practicing problem-solving and logical thinking
+- 💻 Exploring web development and software engineering
+- 🗄️ Learning database design and management
+- 🚀 Building projects and gaining practical experience
+
+---
+
+<!-- TECH STACK -->
+
+<h2 align="center">✦ Languages & Tools ✦</h2>
+
+<h3 align="center">Programming Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=light" />
+</p>
+
+<h3 align="center">Web & Database</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,mysql,mongodb&theme=light" />
+</p>
+
+<h3 align="center">Tools & Technologies</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=light" />
+</p>
+
+---
+
+<!-- PROJECTS -->
+
+<h2 align="center">✦ Featured Projects ✦</h2>
+
+<!-- Replace these demo projects with your actual repositories -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🌷 Project One</h3>
+
+A brief description of your project goes here. Explain what problem it solves and what you built.
 
 <br/>
 
-<!-- ABOUT -->
+**Tech Used**
 
-<table>
-<tr>
-<td width="58%" valign="middle">
+`C++` `Algorithms`
 
-## ✦ WHO AM I?
+<br/>
 
-I'm **AL Sharif**, a Computer Science and Engineering student at Eastern University.
-
-I enjoy exploring the world of technology, developing programming skills and transforming ideas into practical solutions.
-
-My journey is about continuous learning, experimentation and building better things through code.
-
-- 🎓 Computer Science & Engineering
-- 💻 Software & Web Development
-- 🧠 Data Structures & Algorithms
-- 🌱 Continuous Learning
-- 🚀 Project Development
+<a href="https://github.com/shobnomshanaz">
+  <img src="https://img.shields.io/badge/View_Project-8B78B8?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
-<td width="42%" align="center" valign="middle">
 
-<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<td width="50%" valign="top">
+
+<h3>🌙 Project Two</h3>
+
+Write a short introduction about another project. Add its purpose, features, and what you learned.
+
+<br/>
+
+**Tech Used**
+
+`Java` `MySQL`
+
+<br/>
+
+<a href="https://github.com/shobnomshanaz">
+  <img src="https://img.shields.io/badge/View_Project-E4D77B?style=for-the-badge&logo=github&logoColor=5B4B80" />
+</a>
 
 </td>
 </tr>
-</table>
 
----
-
-<!-- TECHNOLOGY -->
-
-## ✦ TECHNOLOGY ECOSYSTEM
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino,linux,vercel&theme=dark" />
-</p>
-
-<p align="center">
-  <sub>PROGRAMMING · DEVELOPMENT · DATABASE · TOOLS</sub>
-</p>
-
----
-
-<!-- DEVELOPMENT JOURNEY -->
-
-## ✦ CURRENTLY ON MY RADAR
-
-<table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Development
+<h3>✨ Project Three</h3>
 
-- Full Stack Development
-- Modern Web Applications
-- Frontend Engineering
-- Backend Fundamentals
+A web-based project description. Replace this with your own project details later.
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-### 🧠 Computer Science
-
-- Data Structures
-- Algorithms
-- Object-Oriented Programming
-- Database Systems
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- PROJECT SHOWCASE -->
-
-## ✦ SELECTED WORK & PROJECTS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏡 Smart Home Security
-
-ESP32-based smart home security and automation project.
-
-`ESP32` `Arduino` `C++` `IoT`
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 Programming Collection
-
-Programming exercises, algorithm implementations and coding practice.
-
-`C` `C++` `Java` `Python`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Web Development
-
-Exploring modern web technologies and developing interactive applications.
+**Tech Used**
 
 `HTML` `CSS` `JavaScript`
 
+<br/>
+
+<a href="https://github.com/shobnomshanaz">
+  <img src="https://img.shields.io/badge/View_Project-9B8AC8?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </td>
+
 <td width="50%" valign="top">
 
-### 🗄️ Database Practice
+<h3>🪻 Project Four</h3>
 
-Working with relational databases, queries and data management.
+An additional project showcase. Describe your idea, implementation, and interesting features here.
 
-`MySQL` `SQL`
+<br/>
+
+**Tech Used**
+
+`Python` `Database`
+
+<br/>
+
+<a href="https://github.com/shobnomshanaz">
+  <img src="https://img.shields.io/badge/View_Project-7766A8?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/SharifZX?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/shobnomshanaz?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-My_GitHub-E4D77B?style=for-the-badge&logo=github&logoColor=5B4B80" />
   </a>
 </p>
 
 ---
 
-<!-- GITHUB TROPHIES -->
+<!-- GITHUB STATS -->
 
-## ✦ ACHIEVEMENTS
+<h2 align="center">✦ GitHub Journey ✦</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SharifZX&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shobnomshanaz&show_icons=true&hide_border=true&bg_color=00000000&title_color=9B8AC8&icon_color=E4D77B&text_color=8B78B8&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shobnomshanaz&hide_border=true&background=00000000&ring=9B8AC8&fire=E4D77B&currStreakLabel=9B8AC8&sideLabels=8B78B8&dates=9B8AC8" />
+</p>
+
+<p align="center">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobnomshanaz&layout=compact&hide_border=true&bg_color=00000000&title_color=9B8AC8&text_color=8B78B8" />
 </p>
 
 ---
 
-<!-- GITHUB ANALYTICS -->
+<!-- CONTRIBUTION GRAPH -->
 
-## ✦ GITHUB ANALYTICS
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SharifZX&show_icons=true&hide_border=true&bg_color=030712&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0&rank_icon=github" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SharifZX&hide_border=true&background=030712&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=E2E8F0&dates=94A3B8" />
-</p>
+<h2 align="center">✦ My Contribution Garden ✦</h2>
 
 <p align="center">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharifZX&layout=compact&hide_border=true&bg_color=030712&title_color=67E8F9&text_color=E2E8F0" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shobnomshanaz&bg_color=00000000&color=9B8AC8&line=E4D77B&point=9B8AC8&area=true&hide_border=true&custom_title=Little%20Steps%2C%20Big%20Growth" />
 </p>
 
 ---
 
-<!-- ACTIVITY GRAPH -->
+<!-- CONTRIBUTION SNAKE -->
 
-## ✦ CONTRIBUTION TIMELINE
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SharifZX&bg_color=030712&color=67E8F9&line=A78BFA&point=FFFFFF&area=true&hide_border=true&custom_title=My%20Coding%20Activity" />
-</p>
-
-<!-- NORMAL GREEN SNAKE -->
-
-## ✦ CONTRIBUTION SNAKE
+<h2 align="center">✦ A Little Coding Snake ✦</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SharifZX/SharifZX/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/shobnomshanaz/shobnomshanaz/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </p>
 
 ---
 
-<!-- FUTURE ROADMAP -->
+<!-- ROADMAP -->
 
-## ✦ MY ROADMAP
+<h2 align="center">✦ My Growth Roadmap ✦</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/01-Learn-172554?style=for-the-badge&labelColor=030712" />
-  <img src="https://img.shields.io/badge/02-Build-312E81?style=for-the-badge&labelColor=030712" />
-  <img src="https://img.shields.io/badge/03-Improve-4C1D95?style=for-the-badge&labelColor=030712" />
-  <img src="https://img.shields.io/badge/04-Innovate-0E7490?style=for-the-badge&labelColor=030712" />
+  <img src="https://img.shields.io/badge/01-Learn-8B78B8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/02-Practice-E4D77B?style=for-the-badge&labelColor=8B78B8" />
+  <img src="https://img.shields.io/badge/03-Build-9B8AC8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/04-Grow-7766A8?style=for-the-badge" />
 </p>
 
-- [ ] Master Data Structures & Algorithms
-- [ ] Improve Full Stack Development Skills
-- [ ] Build More Real-World Applications
-- [ ] Explore Advanced Technologies
+- [ ] Strengthen Data Structures & Algorithms
+- [ ] Build meaningful projects
+- [ ] Learn Full Stack Development
+- [ ] Improve software development skills
+- [ ] Explore new technologies
 - [ ] Contribute to Open Source
+- [ ] Become a confident Software Engineer
 
 ---
 
 <!-- CONNECT -->
 
-## ✦ LET'S CONNECT
+<h2 align="center">✦ Let's Connect ✦</h2>
 
 <p align="center">
-  <a href="https://github.com/SharifZX">
-    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/shobnomshanaz">
+    <img src="https://img.shields.io/badge/GitHub-8B78B8?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.facebook.com/shobnom.shanaz">
+    <img src="https://img.shields.io/badge/Facebook-E4D77B?style=for-the-badge&logo=facebook&logoColor=5B4B80" />
   </a>
-  <a href="YOUR_FACEBOOK_URL">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="YOUR_INSTAGRAM_URL">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:shobnomshanaz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-9B8AC8?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<br/>
+---
 
-<!-- QUOTE -->
+<!-- CLOSING -->
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="85%" />
+  <i>“Quietly learning, courageously building, endlessly growing.”</i>
 </p>
 
 <h3 align="center">
-  BUILDING TODAY. INNOVATING TOMORROW.
+  🌷 THANK YOU FOR VISITING MY LITTLE CORNER OF GITHUB 🌷
 </h3>
 
 <p align="center">
-  <i>Thanks for visiting my digital space.</i>
-</p>
-
-<!-- FOOTER -->
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:030712,45:172554,100:581C87&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:E9D979,50:9B8AC8,100:6D5BA6&section=footer" />
 </p>
